@@ -1,0 +1,83 @@
+Compiled class files
+
+*.class
+
+Log file
+
+*.log
+
+BlueJ files
+
+*.ctxt
+
+Mobile Tools for Java (J2ME)
+
+.mtj.tmp/
+
+Package Files
+
+*.jar
+*.war
+*.ear
+
+Eclipse
+
+.project
+.metadata/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+
+IntelliJ IDEA
+
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+
+Visual Studio Code
+
+.vscode/
+
+NetBeans
+
+nbproject/private/
+build/
+dist/
+nbbuild/
+.nb-gradle/
+
+Maven
+
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+Gradle
+
+.gradle/
+build/
+
+OSX
+
+.DS_Store
+
+Windows
+
+Thumbs.db
+
+Resource/Mappers
+
+忽略本地开发中产生的 XML 文件更改（可选）
+
+*.xml
